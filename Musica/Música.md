@@ -38,7 +38,7 @@ Esto ha sido generado con [Visual Studio](../Dev/Programas.md#visual_estudio_cod
  --- 
  Este ha sido generado con _tree_ pero para [macos](https://osxdaily.com/2016/09/09/view-folder-tree-terminal-mac-os-tree-equivalent/)
  <pre>
- |____7 Notas 7 Colores
+|____7 Notas 7 Colores
 | |____Hecho, es simple
 | | |____07 Sube a mi nave espacial.mp3
 | | |____10 Mucho, cabrones.mp3
