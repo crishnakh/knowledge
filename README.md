@@ -5,10 +5,10 @@ Organizar en general cualquier aspecto de conocimiento de mi vida es algo que ll
 
 ## Trabajo 
 
+## Dev 
+
 ## Conocimiento
 
 ## Música
-
-## Fotos
 
 ## Enlaces de interés
