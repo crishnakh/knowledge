@@ -1,6 +1,6 @@
 ## Ejemplo de organización
 
-Esto ha sido generado con [Visual Studio](../Dev/Programas.md#visual_estudio_code) y la extensión _[Generate Tree Text](https://marketplace.visualstudio.com/items?itemName=Shinotatwu-DS.file-tree-generator)
+Esto ha sido generado con [Visual Studio](../Dev/Programas.md#visual_estudio_code) y la extensión _[Generate Tree Text](https://marketplace.visualstudio.com/items?itemName=Shinotatwu-DS.file-tree-generator)_
 📦 Beets  
  ┣ 📂 7 Notas 7 Colores  
  ┃ ┗ 📂 Hecho, es simple  
