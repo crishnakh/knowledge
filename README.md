@@ -1,4 +1,4 @@
-![fgp_my_brain.png](/assets/img/fgp_my_brain.png)
+![Logo FGP My Brain](/assets/img/fgp_my_brain.png)
 # Toma, mi cerebro
 Organizar en general cualquier aspecto de conocimiento de mi vida es algo que llevo tiempo intentando organizar. He visto proyectos interesantísimos de otras personas y he decidido empezar a organizar mi propio sistema de organización de información.
 
@@ -25,3 +25,6 @@ A lo largo de mi vida he iniciado diferentes proyectos que han vivido por algún
 ## 6. Música
 
 ## 7. [Enlaces de interés](./Enlaces%20de%20interés/enlaces%20de%20interés.md) a.k.a Bookmarks
+
+
+--> **[Referencias](./Notas/referencias.md)**
