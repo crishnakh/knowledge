@@ -1,0 +1,2 @@
+## Commandos
+- [Using a Mac Equivalent of Unix “tree” Command to View Folder Trees at Terminal](https://osxdaily.com/2016/09/09/view-folder-tree-terminal-mac-os-tree-equivalent/) - [[../Notas/tree_on_mac.md|Tutorial tree on macos]]
