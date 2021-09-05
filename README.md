@@ -1,9 +1,3 @@
----
-layout: default
-title: Inicio
-nav_order: 1
----
-
 ![Logo FGP My Brain](/assets/img/fgp_my_brain.png)
 # Toma, mi cerebro
 Organizar en general cualquier aspecto de conocimiento de mi vida es algo que llevo tiempo intentando organizar. He visto proyectos interesantísimos de otras personas y he decidido empezar a organizar mi propio sistema de organización de información.
