@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Inicio
-nav_order: 0
+nav_order: 1
 ---
 
 ![Logo FGP My Brain](/assets/img/fgp_my_brain.png)
