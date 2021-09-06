@@ -45,7 +45,7 @@ Llevo mucho tiempo usando WordPress, y conozco bien su estructura y puedo crear 
 ## 4. [Proyectos](./Proyectos/Proyectos.md) 
 A lo largo de mi vida he iniciado diferentes proyectos que han vivido por algún periodo de tiempo o todavía existen. Algunos son proyectos muy a largo plazo otros fueron diferentes intentos de crear algo y tuvieron el suficiente esfuerzo como para ponerlos por aquí. Normalmente mis proyectos van separados en varias categorías porque tienen que ver con mi faceta de Biólogo, mi faceta de Programador o son cuestiones más personales.
 
-### 4.1 [BioScripts](./Proyectos/BioScrips.md) 
+### 4.1 [BioScripts](./Proyectos/BioScripts.md) 
 Aquí puedes encontrar proyectos relacionados con Biología o Ciencia en general.
 ### 4.2 [IguannaWeb](./Proyectos/IguannaWeb.md) 
 Aquí puedes encontrar proyectos relacionados con desarrollo web o programación.
@@ -58,7 +58,7 @@ Aquí encontrarás proyectos más personales que es difícil encajar en las dos 
 
 ---
 
-## 6. [Música](./Musica/Musica.md) 
+## 6. [Música](./Musica/Música.md) 
 
 ---
 
