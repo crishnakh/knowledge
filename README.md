@@ -62,7 +62,7 @@ Aquí encontrarás proyectos más personales que es difícil encajar en las dos 
 
 ---
 
-## 7. [Enlaces de interés](./Enlaces%20de%20interés/enlaces%20de%20interés.md) a.k.a Bookmarks
+## 7. [Enlaces](Enlaces.md) a.k.a Bookmarks
 
 
 --> **[Referencias](./Notas/referencias.md)**
