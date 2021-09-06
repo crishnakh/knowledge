@@ -19,13 +19,13 @@ Hay muchos aspectos a lo largo de mi trayectoria laboral que he tenido que ir pu
 ### 2.1 [Redes Sociales](./Trabajo/Redes_Sociales.md) 
 Sí, mis redes sociales, son respecto a trabajo. Tal vez en otro lugar escriba sobre por qué decidí quitar las redes sociales personales. Aquí intentaré escribir sobre redes sociales en las que suelo tener usuarios corporativos y otras redes sociales menos conocidas.
 
-### 2.2 [Interacción con clientes](./Trabajo/Interacción_con_clientes.md) 
+### 2.2 [Interacción con clientes](Interaccion_con_clientes.md) 
 El trato con futuros clientes, compañeros de trabajo o amigos de profesión es importante, y sobre todo, hay que mantenerlo a lo largo del tiempo.
 
 ### 2.3 [Aprendizaje y formación](aprendizaje_y_formacion.md) 
 Siempre hay que estar formándose, y aprendiendo cosas nuevas, y más en este mundo tanto científico como informático... si te pierdes un poco, ya estás fuera.
 
-### 2.4 [Interacción con empresas](./Trabajo/Interacción_con_empresas.md) 
+### 2.4 [Interacción con empresas](Interaccion_con_empresas.md) 
 En ocasiones no interactúas con personas, sino con un grupo de personas que pertenecen a una empresa y normalmente no tienes relación cercana.
 
 
