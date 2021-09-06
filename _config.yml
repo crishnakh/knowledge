@@ -1,10 +1,7 @@
 #theme: jekyll-theme-time-machine
 remote_theme: pmarsceill/just-the-docs
 logo: "/assets/img/fgp_my_brain_logo.png"
-# Aux links for the upper right navigation
 aux_links:
   "Ir a GitHub":
 	- "//github.com/crishnakh/knowledge"
-
-# Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
