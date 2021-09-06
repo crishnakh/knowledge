@@ -1,3 +1,9 @@
+---
+layout: default
+title: Plugin icons & banners
+nav_exclude: true
+---
+
 ## Plugin Icons
 -   icon-128×128.jpg (or icon-128×128.png) for standard displays
 -   icon-256×256.jpg (or icon-256×256.png) for retina/hi-res displays
