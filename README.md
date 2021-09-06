@@ -58,7 +58,7 @@ Aquí encontrarás proyectos más personales que es difícil encajar en las dos 
 
 ---
 
-## 6. [Música](./Musica/Música.md) 
+## 6. [Música](./Musica/Musica.md) 
 
 ---
 
