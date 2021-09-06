@@ -22,7 +22,7 @@ Sí, mis redes sociales, son respecto a trabajo. Tal vez en otro lugar escriba s
 ### 2.2 [Interacción con clientes](./Trabajo/Interacción_con_clientes.md) 
 El trato con futuros clientes, compañeros de trabajo o amigos de profesión es importante, y sobre todo, hay que mantenerlo a lo largo del tiempo.
 
-### 2.3 [Aprendizaje y formación](./Trabajo/aprendizaje_y_formación.md) 
+### 2.3 [Aprendizaje y formación](aprendizaje_y_formacion.md) 
 Siempre hay que estar formándose, y aprendiendo cosas nuevas, y más en este mundo tanto científico como informático... si te pierdes un poco, ya estás fuera.
 
 ### 2.4 [Interacción con empresas](./Trabajo/Interacción_con_empresas.md) 
