@@ -62,7 +62,7 @@ Aquí encontrarás proyectos más personales que es difícil encajar en las dos 
 
 ---
 
-## 7. [Enlaces](Enlaces.md) a.k.a Bookmarks
+## 7. [Enlaces](./Enlaces/Enlaces.md) a.k.a Bookmarks
 
 
 --> **[Referencias](./Notas/referencias.md)**
