@@ -1,3 +1,12 @@
+---
+layout: default
+title: Música
+nav_order: 10
+has_children: true
+---
+
+## Música
+
 ## Ejemplo de organización
 
 Esto ha sido generado con [Visual Studio](../Dev/Programas.md#visual_estudio_code) y la extensión _[Generate Tree Text](https://marketplace.visualstudio.com/items?itemName=Shinotatwu-DS.file-tree-generator)_
