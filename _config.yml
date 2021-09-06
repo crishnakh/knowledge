@@ -1,7 +1,3 @@
 #theme: jekyll-theme-time-machine
 remote_theme: pmarsceill/just-the-docs
 logo: "/assets/img/fgp_my_brain_logo.png"
-aux_links:
-"Ir a GitHub":
-	- "//github.com/crishnakh/knowledge"
-aux_links_new_tab: true
