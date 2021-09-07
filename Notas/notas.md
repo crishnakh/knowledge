@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Notas accesorias
-nav_order: 7
+nav_order: 40
 has_children: false
 ---
 
