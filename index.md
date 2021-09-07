@@ -9,7 +9,7 @@ has_children: false
 # Toma, mi cerebro
 Organizar en general cualquier aspecto de conocimiento de mi vida es algo que llevo tiempo intentando realizar. He visto proyectos interesantísimos de otras personas y he decidido empezar a crear mi propio sistema de organización de información.
 
-Repositorio público: [https://crishnakh.github.io/knowledge/](https://crishnakh.github.io/knowledge/)
+Repositorio público: [https://github.com/crishnakh/knowledge](https://github.com/crishnakh/knowledge)
 
 ## 1. [Productividad](./Productividad/Productividad.md)
 Si hay algo en lo que poco a poco mi interés ha ido creciendo, es en todo aquello que tiene que ver con la productivdad delante de un ordenador o en la realización de cualquier tarea de trabajo. La cuestión es intentar llevarla a cabo en el menor tiempo posible, con la mayor calidad y con el menor esfuerzo posible. Esto implica por ende, con unos gastos reducidos o compensados invertido/tiempo-beneficio.
