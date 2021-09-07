@@ -6,3 +6,6 @@ nav_order: 2
 ---
 
 ## Rutinas
+- Control del tiempo
+- Gestor de Tareas 
+- Reuniones
