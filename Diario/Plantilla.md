@@ -1,5 +1,5 @@
-**YYYY-MM-DD **
+### YYYY-MM-DD
 
-**Resumen en un pequeño párrafo rápidamente**
+#### Resumen en un pequeño párrafo rápidamente
 
-**Nota**
+#### Nota
