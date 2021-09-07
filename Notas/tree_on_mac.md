@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 A simple alias will allow you to view folder trees from the command line of Mac OS:
 
 1.  Launch Terminal or iTerm if you haven’t done so already
