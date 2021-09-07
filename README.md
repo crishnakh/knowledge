@@ -1,6 +1,6 @@
 ![Logo FGP My Brain](/assets/img/fgp_my_brain.png)
 # Toma, mi cerebro
-Organizar en general cualquier aspecto de conocimiento de mi vida es algo que llevo tiempo intentando realizar. He visto proyectos interesantísimos de otras personas y he decidido empezar a organizar mi propio sistema de organización de información.
+Organizar en general cualquier aspecto de conocimiento de mi vida es algo que llevo tiempo intentando realizar. He visto proyectos interesantísimos de otras personas y he decidido empezar a crear mi propio sistema de organización de información.
 
 Página pública: [https://crishnakh.github.io/knowledge/](https://crishnakh.github.io/knowledge/)
 
@@ -55,14 +55,16 @@ Aquí encontrarás proyectos más personales que es difícil encajar en las dos 
 ---
 
 ## 5. [Conocimiento](./Conocimiento/Conocimiento.md) 
+Aquí creo que voy a poner aspectos generales de los que tengo conocimientos, ya sea de la parte científica o la parte de programador.
 
 ---
 
 ## 6. [Música](./Musica/Musica.md) 
+Tengo una colección de música primaria, mi estilo musical se quedó anclado en lso 2000 aproximadamente por lo que me gustaría crear un directorio con todos los artistas y discos que conozco.
 
 ---
 
 ## 7. [Enlaces](./Enlaces/Enlaces.md) a.k.a Bookmarks
-
+Como comenté por otro lado, mis enlaces están guardados en un wordpress personal, donde los estoy categorizando y actualizando, además de revisar bien si todavía están activos o no. Por aquí podrás tenerlos categorizados y listados.
 
 --> **[Referencias](./Notas/referencias.md)**
