@@ -13,11 +13,17 @@ Hace un tiempo decidí no usar el sistema incorporado en los [exploradores web](
 - [Nombre enlace](https://url): Descripción
 
 ## Diversión
+
 ## Servidores
+
 ## Privacidad
+
 ## Programación
+
 ### WordPress
 - [How to Customize WordPress Archive Queries](https://facetwp.com/how-to-customize-archive-queries/)
+
 ## Soluciones
+
 ## Utilidades
 - [The true size of...](https://thetruesize.com/)
