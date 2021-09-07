@@ -6,17 +6,22 @@ nav_order: 3
 ---
 
 ## Proyectos BioScripts
-
 - Flora Vascular
 - Flora Ibérica
 - BioDic
 - Odonata
 - Mantodea
-- Mammala
+- Mammalia
 - The Virtual Museum of Life
 - Hidden Nature
 - Flora Vasca
+- SCIDIF
+- Huellas
+- Huellas APP
+- CounterALL
 
 ### Proyectos en colaboración
 - Ciencia en... 
-- Boletín Drosophila 
+- Yerbarium/Yerbario
+- Boletín Drosophila / Asociación de Divulgación Científica Drosophila
+- DodoCIENCIA
