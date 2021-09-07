@@ -6,3 +6,23 @@ has_children: true
 ---
 
 ## Conocimiento
+
+### Ciencia
+- Flora Vascular
+- Odonatos
+- Mantodea
+- Genética
+- Osteología
+- Divulgación científica
+
+### Desarrollo web
+- PHP
+- MySQL
+- HTML
+- CSS
+- JS
+- Frameworks
+- CMS (Content Management System)
+- SMS (Shop Management System)
+- git
+
