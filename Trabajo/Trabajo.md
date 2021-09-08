@@ -6,12 +6,12 @@ has_children: true
 has_toc: false
 ---
 
-# Trabajo
+## Trabajo
 
-## Aprendizaje y Formación
+### Aprendizaje y Formación
 
-## Interacción con clientes
+### Interacción con clientes
 
-## Interacción con empresas
+### Interacción con empresas
 
-## Redes sociales
+### Redes sociales
