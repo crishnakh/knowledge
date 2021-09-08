@@ -3,6 +3,7 @@ layout: default
 title: Diario
 nav_order: 20
 has_children: false
+has_toc: false
 ---
 
 ## Diario de a bordo

@@ -3,6 +3,7 @@ layout: default
 title: Enlaces
 nav_order: 8
 has_children: true
+has_toc: false
 ---
 
 ## Enlaces
@@ -17,6 +18,7 @@ Hace un tiempo decidí no usar el sistema incorporado en los [exploradores web](
 ## Servidores
 
 ## Privacidad
+- [Portal de privacidad de Cantabria](https://contratosdecantabria.es/) - [Hilo en Twitter](https://twitter.com/JaimeObregon/status/1434926875688587270)
 
 ## Programación
 
