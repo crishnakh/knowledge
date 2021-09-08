@@ -7,3 +7,11 @@ has_toc: false
 ---
 
 ## Desarrollo
+
+### [Privacidad](./Privacidad.md)
+
+### [Programas](./Programas.md)
+
+### [Terminal](./Terminal.md)
+
+### [WordPress](./WordPress.md)

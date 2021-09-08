@@ -8,10 +8,10 @@ has_toc: false
 
 ## Trabajo
 
-### Aprendizaje y Formación
+### [Aprendizaje y Formación](./aprendizaje_y_formacion.md)
 
-### Interacción con clientes
+### [Interacción con clientes](./interaccion_con_clientes.md)
 
-### Interacción con empresas
+### [Interacción con empresas](./interaccion_con_empresas.md)
 
-### Redes sociales
+### [Redes sociales](./Redes_Sociales.md)
