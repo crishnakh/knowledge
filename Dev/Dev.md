@@ -15,3 +15,5 @@ has_toc: false
 ### [Terminal](./Terminal.md)
 
 ### [WordPress](./WordPress.md)
+
+### [APPs](./APPs.md)
