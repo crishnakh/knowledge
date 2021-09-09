@@ -27,6 +27,12 @@ Hace un tiempo decidí no usar el sistema incorporado en los [exploradores web](
 
 ## Soluciones
 
+## Organización
+- [Elodie](https://github.com/jmathai/elodie) Organización de fotos mediante terminal.
+
+## Opensource
+- [Awesome Open Source](https://awesomeopensource.com/)
+
 ## Utilidades
 - [Tiny Helpers](https://tiny-helpers.dev/)
 - [The true size of...](https://thetruesize.com/)
