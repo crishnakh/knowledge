@@ -23,6 +23,7 @@ Hace un tiempo decidí no usar el sistema incorporado en los [exploradores web](
 ## Programación
 
 ### WordPress
+- [How to Limit WordPress the_content Words Length?](https://www.technig.com/limit-wordpress-the_content-words-length/)
 - [How to Customize WordPress Archive Queries](https://facetwp.com/how-to-customize-archive-queries/)
 
 ## Soluciones
@@ -36,6 +37,7 @@ Hace un tiempo decidí no usar el sistema incorporado en los [exploradores web](
 
 ## Utilidades
 - [Tiny Helpers](https://tiny-helpers.dev/)
+- [Exporter](http://falcon.star-lord.me/exporter/) Exporta notas (app notes) a md o html
 
 ## Varios
 - [The true size of...](https://thetruesize.com/)
