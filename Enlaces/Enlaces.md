@@ -17,6 +17,13 @@ Hace un tiempo decidí no usar el sistema incorporado en los [exploradores web](
 
 ## Servidores
 
+## Programas
+### MacOS
+- [QSpace](https://qspace.awehunt.com/en-us/index.html) Alternativa a finder (de pago)
+- [Total Finder](https://www.binaryage.com/) Alternativa a finde y spaces (gratis?)
+- [TagFLow](https://www.tagflow.ch/en/) Usa etiquetas en mac.
+- [TagSpaces](https://www.tagspaces.org/) Etiquetas para mac.
+
 ## Privacidad
 - [Portal de privacidad de Cantabria](https://contratosdecantabria.es/) - [Hilo en Twitter](https://twitter.com/JaimeObregon/status/1434926875688587270)
 
