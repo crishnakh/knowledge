@@ -46,5 +46,8 @@ Hace un tiempo decidí no usar el sistema incorporado en los [exploradores web](
 - [Tiny Helpers](https://tiny-helpers.dev/)
 - [Exporter](http://falcon.star-lord.me/exporter/) Exporta notas (app notes) a md o html
 
+### Tutoriales
+- [Windows 10 on Rapsberry pi 4](https://www.tomshardware.com/how-to/install-windows-10-raspberry-pi)
+
 ## Varios
 - [The true size of...](https://thetruesize.com/)
