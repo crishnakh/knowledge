@@ -34,6 +34,7 @@ Hace un tiempo decidí no usar el sistema incorporado en los [exploradores web](
 - [How to Customize WordPress Archive Queries](https://facetwp.com/how-to-customize-archive-queries/)
 
 ## Soluciones
+- [Controlar el brillo en pantallas externas para mac](https://github.com/MonitorControl/MonitorControl)
 
 ## Organización
 - [ExifTool](https://exiftool.org/) Organización de fotos mediante terminal
