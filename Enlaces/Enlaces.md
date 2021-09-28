@@ -37,7 +37,11 @@ Hace un tiempo decidí no usar el sistema incorporado en los [exploradores web](
 - [Mapa del mundo de mujeres compositoras] (https://svmusicology.com/mapa/?lang=es)
 
 ## Soluciones
+### MacOS
 - [Controlar el brillo en pantallas externas para mac](https://github.com/MonitorControl/MonitorControl)
+
+### Plesk
+- [# Website on Plesk server suddenly started to show 500 error: AH10292: Invalid proxy UDS filename](https://support.plesk.com/hc/en-us/articles/4407366133906) - Enlace primario en el foro [aquí](https://talk.plesk.com/threads/all-domains-apache2-error-500.362208/)
 
 ## Organización
 - [ExifTool](https://exiftool.org/) Organización de fotos mediante terminal
