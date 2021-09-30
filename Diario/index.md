@@ -8,8 +8,10 @@ has_toc: false
 
 ## Diario de a bordo
 ### 2021
+
 #### Octubre 2021
 - Nada todavía
+
 #### Septiembre 2021
 - [2021-09-30](./2021-09-30.md)
 - [2021-09-29](./2021-09-29.md)
