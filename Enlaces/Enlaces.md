@@ -32,6 +32,7 @@ Hace un tiempo decidí no usar el sistema incorporado en los [exploradores web](
 ### WordPress
 - [How to Limit WordPress the_content Words Length?](https://www.technig.com/limit-wordpress-the_content-words-length/)
 - [How to Customize WordPress Archive Queries](https://facetwp.com/how-to-customize-archive-queries/)
+- [Etnobotànica dels Països Catalans](https://etnobotanica.iec.cat/) - [Artículo](https://collectaneabotanica.revistas.csic.es/index.php/collectaneabotanica/article/view/306)
 
 ## Bases de datos
 - [Mapa del mundo de mujeres compositoras](https://svmusicology.com/mapa/?lang=es)
