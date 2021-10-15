@@ -43,6 +43,7 @@ Hace un tiempo decidí no usar el sistema incorporado en los [exploradores web](
 ## Soluciones
 ### Productividad
 - [Station - Es algo similar a rambox](https://getstation.com/)
+- [Afred spotify mini player](https://alfred-spotify-mini-player.com/)
 ### MacOS
 - [Controlar el brillo en pantallas externas para mac](https://github.com/MonitorControl/MonitorControl)
 
