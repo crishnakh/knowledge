@@ -40,6 +40,7 @@ Hace un tiempo decidí no usar el sistema incorporado en los [exploradores web](
 - [Etnobotànica dels Països Catalans](https://etnobotanica.iec.cat/) - [Artículo](https://collectaneabotanica.revistas.csic.es/index.php/collectaneabotanica/article/view/306)
 
 ## Bases de datos
+- [LibreBOR](https://librebor.me/)
 - [Mapa del mundo de mujeres compositoras](https://svmusicology.com/mapa/?lang=es)
 - [Mapa de árboles de Sevilla](https://www.arbomap.com/arbomapciudadano/accesos/sevilla/main.html?lang=es) por la empresa [Tecnigral](https://www.tecnigral.es/arbomap/)
 
