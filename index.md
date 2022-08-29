@@ -19,6 +19,9 @@ Trabajo bajo mac, por lo que los programas que utilizo suelen ser para este sist
 ### 1.2 [Rutinas](./Productividad/Rutinas.md)
 Trabajo como freelance, y mi tiempo es oro, literalmente dicho, aquella tarea que se lleve un tiempo de mí, incluso escribir estas líneas, estará contabilizada, catalogada y organizada en una serie de proyectos o bloques con subproyectos o subbloques.
 
+### 1.3 [Organización](./Productividad/Organizacion.md)
+Formas de organizar determinados tipos de archivo: Música, fotos, proyectos...
+
 ---
 
 ## 2. [Trabajo](./Trabajo/Trabajo.md) 
